@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/469b1c60-67ed-4e6a-8708-dd1ca6a2114e)# WhatsApp Chat Analyzer
+# **WhatsApp Chat Analyzer**
 
 A web application built with Streamlit that provides comprehensive analysis and visualization of WhatsApp chat data.
 
