@@ -91,12 +91,7 @@ The application is configured for deployment on platforms like Heroku using the 
 
 ## License
 
-[Choose an appropriate license]
-
-## Contact
-
-[Your contact information]
-
+This project is licensed under the MIT License - see the LICENSE file for details.
 ---
 
 *Note: This application is for personal use only and does not store any of your chat data.*
